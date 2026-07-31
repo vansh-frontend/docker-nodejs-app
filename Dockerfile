@@ -1,5 +1,7 @@
 FROM node:latest
 
+
+COPY . /home/app
 # Set working directory
 WORKDIR /home/app
 
