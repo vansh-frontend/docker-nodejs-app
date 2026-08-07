@@ -42,3 +42,5 @@ coverage/
 # Optional lock files (keep only the one you use)
 # yarn.lock
 # pnpm-lock.yaml
+
+.git
